@@ -7,7 +7,7 @@ description: "Whatever is worth doing is worth doing well."
 keyword: "考研,cf,高数，学习，读书"
 url: "http://for-cf.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/for-cf/for-cf.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
